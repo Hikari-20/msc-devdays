@@ -5,7 +5,6 @@
 #
 # Required: name, program, bio
 # Optional: github  (your GitHub username, without the "@")
-#           If omitted, your card shows your initials instead of your avatar.
 name: Mona Lisa Octocat
 program: BS Computer Science
 bio: Curious about open source and building cool things with Copilot.
